@@ -4,7 +4,6 @@
 
 GigShield AI protects gig delivery workers from income loss caused by external disruptions — heavy rain, extreme heat, flooding, pollution, strikes, or curfews. Coverage is automatic, event-based, and priced weekly to match how gig workers earn.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![Status](https://img.shields.io/badge/status-prototype-orange.svg)]()
 [![Platform](https://img.shields.io/badge/platform-web-brightgreen.svg)]()
 
@@ -439,11 +438,6 @@ ML_SERVICE_URL=http://localhost:8000
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -454,8 +448,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - [Razorpay](https://razorpay.com/) — Payment gateway
 - [Scikit-learn](https://scikit-learn.org/) — ML framework
 
----
-
-<p align="center">
-  Built with ❤️ for India's gig workers
-</p>
